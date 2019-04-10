@@ -1,0 +1,5 @@
+sudo apt-get install rpm
+#yum install perl
+wget http://download.acronis.com/AcronisBackupAdvancedLinux64_11.7_trial_en-EU.tar
+tar -xvf AcronisBackupAdvancedLinux64_11.7_trial_en-EU.tar
+./AcronisBackupAdvancedMConsoleL64_11.7_44421_en-EU.x86_64
