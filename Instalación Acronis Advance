@@ -3,3 +3,6 @@ sudo apt-get install rpm
 wget http://download.acronis.com/AcronisBackupAdvancedLinux64_11.7_trial_en-EU.tar
 tar -xvf AcronisBackupAdvancedLinux64_11.7_trial_en-EU.tar
 ./AcronisBackupAdvancedMConsoleL64_11.7_44421_en-EU.x86_64
+
+
+wget http://kb.acronis.com/sites/default/files/content/2009/10/4371/snapapi26_modules-0.7.47-1.noarch.rpm
